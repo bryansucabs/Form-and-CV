@@ -1,1 +1,1 @@
-# "Aplicacion.Android" Falta esa carpeta pero el peso de ella es demasiado para subirlo y los archivos son demasiado, no se modifico nada en la espacio Android. asi que funcionaria si se coloca otra carpeta android
+# "Aplicacion.Android" Falta esa carpeta pero el peso de ella es demasiado para subirlo y los archivos son demasiado, no se modifico nada en la espacio Android. asi que funcionaria si se coloca otra carpeta android de visual
