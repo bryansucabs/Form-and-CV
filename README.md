@@ -24,3 +24,11 @@ En algunos espacios, aparecen ventanas que nos permite llenar informacion:
 ![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/edbebcb1-ace1-4514-9b16-400ce065d5ef)
 
 # CV
+
+1.- Al enviar la información pasa al CV donde muestra toda la información que colocamos en el formulario
+
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/3ab6e7a2-90e4-49ec-9e26-fa84939a095a)
+
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/592ebe7b-230e-444a-86f7-04661312f5d5)
+
+
