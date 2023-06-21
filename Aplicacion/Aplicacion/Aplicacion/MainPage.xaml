@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplicacion.MainPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="black" Padding="20">
+                <Label Text="FORMULARIO" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" Margin="0,0,0,20" />
+               <Label Text="Nombres Completos:" Margin="0,0,0,10" />
+                <Entry x:Name="NombreEntry" Placeholder="" Margin="0,0,0,10" />
+               <Label Text="Apellidos Completos:" Margin="0,0,0,10" />
+                <Entry x:Name="ApellidosEntry" Placeholder="" Margin="0,0,0,10" />
+               <Label Text="Fecha de nacimiento:" Margin="0,0,0,10" />
+                <DatePicker x:Name="DatePicker" Margin="0,0,0,10" />
+               <Label Text="Ocupación:" Margin="0,0,0,10" />
+                <Entry x:Name="OcupacionEntry" Placeholder="" Margin="0,0,0,10" />
+               <Label Text="Teléfono:" Margin="0,0,0,10" />
+                <Entry x:Name="TelefonoEntry" Placeholder="" Margin="0,0,0,10" />
+               <Label Text="Email:" Margin="0,0,0,10" />
+                <Entry x:Name="EmailEntry" Placeholder="" Margin="0,0,0,10" />
+               <Label Text="Nacionalidad:" Margin="0,0,0,10" />
+                <Picker x:Name="NacionalidadPicker" Title="Nacionalidad" Margin="0,0,0,10" >
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Brasil</x:String>
+                            <x:String>Peru</x:String>
+                            <x:String>Argentina</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+                <Label Text="Nivel de inglés:" Margin="0,0,0,10" />
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout Orientation="Horizontal">
+                        <RadioButton x:Name="BasicoRadioButton" Margin="0,0,0,10" />
+                        <Label Text="Básico" VerticalOptions="Center" Margin="0,0,0,10" />
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <RadioButton x:Name="IntermedioRadioButton" Margin="0,0,0,10"/>
+                        <Label Text="Intermedio" VerticalOptions="Center"  Margin="0,0,0,10"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <RadioButton x:Name="AvanzadoRadioButton" Margin="0,0,0,10"/>
+                        <Label Text="Avanzado" VerticalOptions="Center" Margin="0,0,0,10" />
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <RadioButton x:Name="FluidoRadioButton" Margin="0,0,0,10" />
+                        <Label Text="Fluido" VerticalOptions="Center" Margin="0,0,0,10" />
+                    </StackLayout>
+                </StackLayout>
+                <Label Text="Lenguajes de programación:" Margin="0,0,0,10" />
+                <Picker x:Name="LenguajesPicker" Title="Lenguajes de programación" Margin="0,0,0,10">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>C++</x:String>
+                            <x:String>Python</x:String>
+                            <x:String>Java</x:String>
+                            <x:String>PHP</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+                <Label Text="Aptitudes:" Margin="0,0,0,10" />
+                <!--<Entry x:Name="AptitudesEntry" Placeholder="Aptitudes" Margin="0,0,0,10" />-->
+                <StackLayout Orientation="Horizontal">
+                    <CheckBox x:Name="RapidezCheckBox" />
+                    <Label Text="Rapidez" VerticalOptions="Center" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <CheckBox x:Name="CreatividadCheckBox" />
+                    <Label Text="Creatividad" VerticalOptions="Center" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <CheckBox x:Name="IngenioCheckBox" />
+                    <Label Text="Ingenio" VerticalOptions="Center" />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <CheckBox x:Name="IntuitivoCheckBox" />
+                    <Label Text="Intuitivo" VerticalOptions="Center" />
+                </StackLayout>
+                <Editor x:Name="PerfilEditor" Placeholder="Perfil" HeightRequest="150" Margin="0,0,0,10" />
+                <Button Text="Enviar" FontSize="15" FontAttributes="Bold" HorizontalOptions="Center" WidthRequest="120" HeightRequest="30" Clicked="EnviarButton_Clicked" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

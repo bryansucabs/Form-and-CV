@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplicacion.vistas.CVPage">
+	<ContentPage.Resources>
+		<ResourceDictionary>
+			<Color x:Key="BackgroundColor">#000000</Color>
+			<Color x:Key="TextColor">#FF0068</Color>
+			<Color x:Key="AnswerColor">#FFFFFF</Color>
+			<Style TargetType="Label" x:Key="SectionTitleStyle">
+				<Setter Property="FontSize" Value="24" />
+				<Setter Property="FontAttributes" Value="Bold" />
+				<Setter Property="TextColor" Value="{StaticResource TextColor}" />
+			</Style>
+			<Style TargetType="Label" x:Key="LabelStyle">
+				<Setter Property="FontSize" Value="18" />
+				<Setter Property="TextColor" Value="{StaticResource TextColor}" />
+			</Style>
+			<Style TargetType="Label" x:Key="AnswerStyle">
+				<Setter Property="FontSize" Value="18" />
+				<Setter Property="TextColor" Value="{StaticResource AnswerColor}" />
+			</Style>
+			<Style TargetType="StackLayout" x:Key="SectionLayoutStyle">
+				<Setter Property="Orientation" Value="Horizontal" />
+				<Setter Property="Spacing" Value="10" />
+				<Setter Property="Margin" Value="0,10" />
+			</Style>
+		</ResourceDictionary>
+	</ContentPage.Resources>
+	<ContentPage.Content>
+		<ScrollView BackgroundColor="{StaticResource BackgroundColor}">
+			<StackLayout Padding="20">
+				<Label Text="Curriculum Vitae" Style="{StaticResource SectionTitleStyle}" HorizontalOptions="Center" Margin="0,0,0,20" />
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Nombre:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="NombreLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Apellidos:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="ApellidosLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Fecha de nacimiento:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="FechaNacimientoLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Ocupación:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="OcupacionLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Teléfono:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="TelefonoLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Email:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="EmailLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Nacionalidad:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="NacionalidadLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Nivel de inglés:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="NivelInglesLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Lenguajes de programación:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="LenguajesProgramacionLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Rapidez:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="RapidezLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Creatividad:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="CreatividadLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Ingenio:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="IngenioLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Intuitivo:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="IntuitivoLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+
+				<StackLayout Style="{StaticResource SectionLayoutStyle}">
+					<Label Text="Perfil:" Style="{StaticResource LabelStyle}" VerticalOptions="Center" />
+					<Label x:Name="PerfilLabel" Style="{StaticResource AnswerStyle}" VerticalOptions="Center" />
+				</StackLayout>
+			</StackLayout>
+		</ScrollView>
+	</ContentPage.Content>
+</ContentPage>

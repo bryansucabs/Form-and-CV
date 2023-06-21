@@ -1,0 +1,16 @@
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.deps.json
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.dll
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\bin\Debug\netstandard2.0\ref\Aplicacion.dll
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.pdb
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfo.cs
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.dll
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\refint\Aplicacion.dll
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.pdb
+C:\Users\exact\source\repos\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\vistas\CVPage.xaml.g.cs
