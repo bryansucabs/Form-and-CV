@@ -2,9 +2,8 @@
 
 Alumno: Bryan Edward Suca Jaramillo
 
-Visualizacion:
+Celular: Note 10+ plus, Samsung, android 12.0
 
-Desde un celular Note 10+ plus, Samsung, android 12.0
 
 # FORMULARIO
 
