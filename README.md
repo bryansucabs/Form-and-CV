@@ -6,7 +6,7 @@ Visualizacion:
 
 Desde un celular Note 10+ plus, Samsung, android 12.0
 
-#FORMULARIO
+# FORMULARIO
 
 1.- Primero se visualiza el formulario para llenar los espacios en blanco 
 
@@ -24,4 +24,4 @@ En algunos espacios, aparecen ventanas que nos permite llenar informacion:
 
 ![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/edbebcb1-ace1-4514-9b16-400ce065d5ef)
 
-#CV
+# CV
