@@ -6,6 +6,8 @@ Visualizacion:
 
 Desde un celular Note 10+ plus, Samsung, android 12.0
 
+#FORMULARIO
+
 1.- Primero se visualiza el formulario para llenar los espacios en blanco 
 
 ![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/7927a269-60eb-4885-abc6-787d2e73140d)
@@ -21,3 +23,5 @@ En algunos espacios, aparecen ventanas que nos permite llenar informacion:
 2.- Por ultimo tenemos casillas para llenar y el perfil
 
 ![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/edbebcb1-ace1-4514-9b16-400ce065d5ef)
+
+#CV
