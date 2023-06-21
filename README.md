@@ -8,10 +8,16 @@ Desde un celular Note 10+ plus, Samsung, android 12.0
 
 1.- Primero se visualiza el formulario para llenar los espacios en blanco 
 
-![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/020355b2-698a-46a1-98e1-01acbfa2cd44)
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/7927a269-60eb-4885-abc6-787d2e73140d)
 
 En algunos espacios, aparecen ventanas que nos permite llenar informacion:
 
-![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/bb651a26-5731-4fd5-95d7-658a1114acff)
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/45e1466b-8cc1-4dd2-9847-54f34575ee00)
 
 ![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/b86b1538-2956-4f6f-a557-94df70349a2a)
+
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/c709e4d1-fa50-4813-b530-256f47d99f6d)
+
+2.- Por ultimo tenemos casillas para llenar y el perfil
+
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/edbebcb1-ace1-4514-9b16-400ce065d5ef)
