@@ -4,9 +4,9 @@ Alumno: Bryan Edward Suca Jaramillo
 
 Celular: Note 10+ plus, Samsung, android 12.0
 
-[image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/bc365442-2663-401c-920a-3eeda7fbbb97)
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/09aaf68c-699e-480a-9858-52c6f80adbc7)
 
-![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/78249802-ae91-4f9f-a60c-fb87b002f17e)
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/f54b25a1-7f34-4745-91b4-9284fb8880c3)
 
 
 # FORMULARIO
