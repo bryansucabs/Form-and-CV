@@ -13,26 +13,28 @@ Celular: Note 10+ plus, Samsung, android 12.0
 
 1.- Primero se visualiza el formulario para llenar los espacios en blanco 
 
-![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/7927a269-60eb-4885-abc6-787d2e73140d)
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/3b2cff1a-9099-4258-a13f-2dedcc093995)
 
 En algunos espacios, aparecen ventanas que nos permite llenar informacion:
 
-![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/45e1466b-8cc1-4dd2-9847-54f34575ee00)
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/5ad967e5-2ada-43c8-b3a6-1eb0d85ee876)
 
-![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/b86b1538-2956-4f6f-a557-94df70349a2a)
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/6178ae45-a4c8-4d4a-bab2-5b02030432c8)
 
-![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/c709e4d1-fa50-4813-b530-256f47d99f6d)
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/bb075d8b-519a-431c-a0ce-89b4fe8b7974)
+
 
 2.- Por ultimo tenemos casillas para llenar y el perfil
 
-![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/edbebcb1-ace1-4514-9b16-400ce065d5ef)
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/66cac7bb-c0d5-48e9-93dc-824a0603671a)
 
 # CV
 
 1.- Al enviar la información pasa al CV donde muestra toda la información que colocamos en el formulario
 
-![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/3ab6e7a2-90e4-49ec-9e26-fa84939a095a)
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/3281a326-0a96-423a-87ce-959fb84f0152)
 
-![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/592ebe7b-230e-444a-86f7-04661312f5d5)
+![image](https://github.com/bryansucabs/Form-and-CV/assets/103225730/16af6843-b742-4fd6-9df0-3661df90245a)
+
 
 
